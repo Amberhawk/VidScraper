@@ -1,0 +1,16 @@
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\bin\Debug\net5.0\YoutubeRipperV0.exe
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\bin\Debug\net5.0\YoutubeRipperV0.deps.json
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\bin\Debug\net5.0\YoutubeRipperV0.runtimeconfig.json
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\bin\Debug\net5.0\YoutubeRipperV0.runtimeconfig.dev.json
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\bin\Debug\net5.0\YoutubeRipperV0.dll
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\bin\Debug\net5.0\ref\YoutubeRipperV0.dll
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\bin\Debug\net5.0\YoutubeRipperV0.pdb
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\YoutubeRipperV0.csprojAssemblyReference.cache
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\YoutubeRipperV0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\YoutubeRipperV0.AssemblyInfoInputs.cache
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\YoutubeRipperV0.AssemblyInfo.cs
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\YoutubeRipperV0.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\YoutubeRipperV0.dll
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\ref\YoutubeRipperV0.dll
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\YoutubeRipperV0.pdb
+C:\Users\Kolya\Desktop\DotnetC#files\YoutubeRipper\YoutubeRipperV0\obj\Debug\net5.0\YoutubeRipperV0.genruntimeconfig.cache
